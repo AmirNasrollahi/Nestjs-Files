@@ -1,0 +1,1 @@
+{"version":3,"file":"todolist.module.js","sourceRoot":"","sources":["../../todolist/todolist.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,+DAAuD;AACvD,+DAA2D;AAC3D,yDAAiD;AAM1C,IAAM,cAAc,GAApB,MAAM,cAAc;CAE1B,CAAA;AAFY,cAAc;IAJ1B,IAAA,eAAM,EAAC;QACN,WAAW,EAAE,CAAC,wCAAkB,CAAC;QACjC,SAAS,EAAC,CAAC,8BAAW,EAAC,oCAAc,CAAC;KACvC,CAAC;GACW,cAAc,CAE1B;AAFY,wCAAc"}
